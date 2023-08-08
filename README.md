@@ -15,5 +15,5 @@ Also, install `torch==2.0.0` and `tensorflow==2.6.0` with the CUDA enabled (when
 You can run experiments as follows (example for the baseline):
 ```
 mkdir results-baseline
-python3 experiments-baseline.py 
+python3 experiment-baseline.py
 ```
